@@ -1,5 +1,7 @@
 #' Russian cities with population of over 1 million
 #'
+#' Russian cities with population of over 1 million
+#'
 #' The dataset contains names, population and coordinates of Russian cities with population greater than 1 million.
 #'
 #' @format A SpatialPointsDataFrame object with 15 points with following attibutes:
@@ -11,6 +13,8 @@
 #' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "cities"
 
+#' Administrative regions of Voronezh city
+#'
 #' Administrative regions of Voronezh city
 #'
 #' The dataset contains names, population (as of 2010) and administrative level of included regions.
@@ -27,6 +31,8 @@
 
 #' Administrative regions of Nizhniy Novgorod city
 #'
+#' Administrative regions of Nizhniy Novgorod city
+#'
 #' The dataset contains names, population (as of 2015) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 8 polygons with following attibutes:
@@ -39,6 +45,8 @@
 #' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Novgorod"
 
+#' Administrative regions of Novosibirsk city
+#'
 #' Administrative regions of Novosibirsk city
 #'
 #' The dataset contains names, population (as of 2016) and administrative level of included regions.
@@ -55,6 +63,8 @@
 
 #' Administrative regions of Omsk city
 #'
+#' Administrative regions of Omsk city
+#'
 #' The dataset contains names, population (as of 2010) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 5 polygons with following attibutes:
@@ -67,6 +77,8 @@
 #' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Omsk"
 
+#' Administrative regions of Perm city
+#'
 #' Administrative regions of Perm city
 #'
 #' The dataset contains names, population (as of 2015) and administrative level of included regions.
@@ -83,6 +95,8 @@
 
 #' Administrative regions of Rostov-na-Donu city
 #'
+#' Administrative regions of Rostov-na-Donu city
+#'
 #' The dataset contains names, population (as of 2015) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 8 polygons with following attibutes:
@@ -97,6 +111,8 @@
 
 #' Administrative regions of Samara city
 #'
+#' Administrative regions of Samara city
+#'
 #' The dataset contains names, population (as of 2015) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 9 polygons with following attibutes:
@@ -109,6 +125,8 @@
 #' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Samara"
 
+#' Administrative regions of Saint-Petersburg city
+#'
 #' Administrative regions of Saint-Petersburg city
 #'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
@@ -126,6 +144,8 @@
 
 #' Administrative regions of Ufa city
 #'
+#' Administrative regions of Ufa city
+#'
 #' The dataset contains names, population (as of 2015) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 7 polygons with following attibutes:
@@ -140,6 +160,8 @@
 
 #' Administrative regions of Chelyabinsk city
 #'
+#' Administrative regions of Chelyabinsk city
+#'
 #' The dataset contains names, population (as of 2015) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 7 polygons with following attibutes:
@@ -152,6 +174,8 @@
 #' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Chelyabinsk"
 
+#' Administrative regions of Moscow city
+#'
 #' Administrative regions of Moscow city
 #'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
@@ -169,6 +193,8 @@
 
 #' Administrative regions of Krasnoyarsk city
 #'
+#' Administrative regions of Krasnoyarsk city
+#'
 #' The dataset contains names, population (as of 2010) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 7 polygons with following attibutes:
@@ -181,6 +207,8 @@
 #' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Krasnoyarsk"
 
+#' Administrative regions of Kazan city
+#'
 #' Administrative regions of Kazan city
 #'
 #' The dataset contains names, population (as of 2015) and administrative level of included regions.
@@ -197,6 +225,8 @@
 
 #' Administrative regions of Ekaterinburg city
 #'
+#' Administrative regions of Ekaterinburg city
+#'
 #' The dataset contains names, population (as of 2015) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 7 polygons with following attibutes:
@@ -211,6 +241,8 @@
 
 #' Administrative regions of Volgograd city
 #'
+#' Administrative regions of Volgograd city
+#'
 #' The dataset contains names, population (as of 2015) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 8 polygons with following attibutes:
@@ -223,6 +255,8 @@
 #' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Volgograd"
 
+#' Federal districts of Russia
+#'
 #' Federal districts of Russia
 #'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
@@ -240,6 +274,8 @@
 
 #' Federal districts of Russia
 #'
+#' Federal districts of Russia
+#'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions (+Crimea Federal District).
 #'
 #' @format A SpatialPolygonsDataFrame object with 9 polygons with following attibutes:
@@ -253,6 +289,8 @@
 #' @source Obtained from GISLAB. QGIS was used to simplify geometry, to add Crimea Federal District and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "rus_fd"
 
+#' Federal subjects of Russia
+#'
 #' Federal subjects of Russia
 #'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions (+Crimea Federal District).
@@ -271,6 +309,8 @@
 
 #' Federal subjects of Russia
 #'
+#' Federal subjects of Russia
+#'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 83 polygons with following attibutes:
@@ -285,6 +325,8 @@
 #' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "rus_sub_nc"
 
+#' Far Eastern Federal District
+#'
 #' Far Eastern Federal District
 #'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
@@ -303,6 +345,8 @@
 
 #' Crimea Federal District
 #'
+#' Crimea Federal District
+#'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 2 polygons with following attibutes:
@@ -317,6 +361,8 @@
 #' @source Obtained from OpenStreetMap. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "KFO"
 
+#' Volga Federal District
+#'
 #' Volga Federal District
 #'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
@@ -335,6 +381,8 @@
 
 #' North-Western Federal District
 #'
+#' North-Western Federal District
+#'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 11 polygons with following attibutes:
@@ -349,6 +397,8 @@
 #' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "NWFO"
 
+#' North-Caucasus Federal District
+#'
 #' North-Caucasus Federal District
 #'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
@@ -367,6 +417,8 @@
 
 #' Siberia Federal District
 #'
+#' Siberia Federal District
+#'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 12 polygons with following attibutes:
@@ -381,6 +433,8 @@
 #' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "SFO"
 
+#' Ural Federal District
+#'
 #' Ural Federal District
 #'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
@@ -399,6 +453,8 @@
 
 #' Central Federal District
 #'
+#' Central Federal District
+#'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 18 polygons with following attibutes:
@@ -413,6 +469,8 @@
 #' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "CentralFO"
 
+#' Southern Federal District
+#'
 #' Southern Federal District
 #'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
@@ -431,6 +489,8 @@
 
 #' Khabarovsk region municipal districts and Khabarovsk city districts
 #'
+#' Khabarovsk region municipal districts and Khabarovsk city districts
+#'
 #' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 24 polygons with following attibutes:
@@ -444,6 +504,8 @@
 #' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Khabarovsk"
 
+#' Maps in rusmaps package
+#'
 #' Maps in rusmaps package
 #'
 #' The dataset contains map names (how they can be called), a brief descrtiption, format and relevance date.

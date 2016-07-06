@@ -1,9 +1,3 @@
-#' rusmaps
-#'
-#' @name rusmaps
-#' @docType package
-#' @author Artem Kondrashov
-NULL
 
 #' Set positive values to negative longitudes
 #'
@@ -20,7 +14,7 @@ longitude_correction <- function(x) {
   if (x < 0) {
     x <- 359.999 + x
   }
-  
+
   return(x)
 }
 
@@ -40,7 +34,7 @@ restore180 <- function(y) {
   for (i in 1:length(y@polygons)) {
     for (j in 1:length(y@polygons[[i]]@Polygons)) {
       y@polygons[[i]]@Polygons[[j]]@coords[, 1] <- sapply(
-        y@polygons[[i]]@Polygons[[j]]@coords[, 1], 
+        y@polygons[[i]]@Polygons[[j]]@coords[, 1],
         longitude_correction)
     }
   }

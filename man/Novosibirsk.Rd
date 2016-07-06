@@ -18,6 +18,9 @@ Obtained with QGIS using OpenStreetMap data. Data tables were customized. Popula
 Novosibirsk
 }
 \description{
+Administrative regions of Novosibirsk city
+}
+\details{
 The dataset contains names, population (as of 2016) and administrative level of included regions.
 }
 \keyword{datasets}

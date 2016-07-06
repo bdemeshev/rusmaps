@@ -18,6 +18,9 @@ Obtained with QGIS using OpenStreetMap data. Data tables were customized. Popula
 Omsk
 }
 \description{
+Administrative regions of Omsk city
+}
+\details{
 The dataset contains names, population (as of 2010) and administrative level of included regions.
 }
 \keyword{datasets}

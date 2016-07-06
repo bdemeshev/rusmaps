@@ -18,6 +18,9 @@ Obtained with QGIS using OpenStreetMap data. Data tables were customized. Popula
 Perm
 }
 \description{
+Administrative regions of Perm city
+}
+\details{
 The dataset contains names, population (as of 2015) and administrative level of included regions.
 }
 \keyword{datasets}

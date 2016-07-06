@@ -20,6 +20,9 @@ Obtained from OpenStreetMap. QGIS was used to simplify geometry and to customize
 KFO
 }
 \description{
+Crimea Federal District
+}
+\details{
 The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
 }
 \keyword{datasets}

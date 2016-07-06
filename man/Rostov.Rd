@@ -18,6 +18,9 @@ Obtained with QGIS using OpenStreetMap data. Data tables were customized. Popula
 Rostov
 }
 \description{
+Administrative regions of Rostov-na-Donu city
+}
+\details{
 The dataset contains names, population (as of 2015) and administrative level of included regions.
 }
 \keyword{datasets}

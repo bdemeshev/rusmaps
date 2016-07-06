@@ -19,6 +19,9 @@ Obtained from GISLAB. QGIS was used to simplify geometry and to customize data t
 rus_fd_nc
 }
 \description{
+Federal districts of Russia
+}
+\details{
 The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
 }
 \keyword{datasets}

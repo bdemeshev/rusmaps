@@ -19,6 +19,9 @@ Obtained with QGIS using OpenStreetMap data. Data tables were customized. Popula
 Moscow
 }
 \description{
+Administrative regions of Moscow city
+}
+\details{
 The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
 }
 \keyword{datasets}

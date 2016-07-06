@@ -18,6 +18,9 @@ Compiled from existing data.
 rusmaps.dataframe
 }
 \description{
+Maps in rusmaps package
+}
+\details{
 The dataset contains map names (how they can be called), a brief descrtiption, format and relevance date.
 }
 \keyword{datasets}

@@ -19,6 +19,9 @@ Obtained from GISLAB. QGIS was used to simplify geometry, to add Crimea Federal 
 rus_fd
 }
 \description{
+Federal districts of Russia
+}
+\details{
 The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions (+Crimea Federal District).
 }
 \keyword{datasets}
