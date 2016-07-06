@@ -3,7 +3,7 @@
 \docType{data}
 \name{cities}
 \alias{cities}
-\title{Russian cities with population of over 1 million}
+\title{Russian cities with population of over 1 million.}
 \format{A SpatialPointsDataFrame object with 15 points with following attibutes:
 \describe{
  \item{id}{custom id assigned}
@@ -17,9 +17,6 @@ Obtained with QGIS using OpenStreetMap data. Data tables were customized. Popula
 cities
 }
 \description{
-Russian cities with population of over 1 million
-}
-\details{
 The dataset contains names, population and coordinates of Russian cities with population greater than 1 million.
 }
 \keyword{datasets}

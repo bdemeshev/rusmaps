@@ -1,6 +1,4 @@
-#' Russian cities with population of over 1 million
-#'
-#' Russian cities with population of over 1 million
+#' Russian cities with population of over 1 million.
 #'
 #' The dataset contains names, population and coordinates of Russian cities with population greater than 1 million.
 #'
@@ -13,9 +11,7 @@
 #' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "cities"
 
-#' Administrative regions of Voronezh city
-#'
-#' Administrative regions of Voronezh city
+#' Administrative regions of Voronezh city.
 #'
 #' The dataset contains names, population (as of 2010) and administrative level of included regions.
 #'
@@ -29,9 +25,7 @@
 #' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Voronezh"
 
-#' Administrative regions of Nizhniy Novgorod city
-#'
-#' Administrative regions of Nizhniy Novgorod city
+#' Administrative regions of Nizhniy Novgorod city.
 #'
 #' The dataset contains names, population (as of 2015) and administrative level of included regions.
 #'

@@ -3,7 +3,7 @@
 \docType{data}
 \name{Voronezh}
 \alias{Voronezh}
-\title{Administrative regions of Voronezh city}
+\title{Administrative regions of Voronezh city.}
 \format{A SpatialPolygonsDataFrame object with 6 polygons with following attibutes:
 \describe{
  \item{id}{custom id assigned}
@@ -18,9 +18,6 @@ Obtained with QGIS using OpenStreetMap data. Data tables were customized. Popula
 Voronezh
 }
 \description{
-Administrative regions of Voronezh city
-}
-\details{
 The dataset contains names, population (as of 2010) and administrative level of included regions.
 }
 \keyword{datasets}
